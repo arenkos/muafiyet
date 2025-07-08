@@ -1,0 +1,1553 @@
+MÜFREDAT DERSLERİ
+==================================================
+
+Ders Kodu: BİM 107
+Ders Adı: Algoritmalar ve Programlama I
+AKTS: 5
+------------------------------
+
+Ders Kodu: DOU 101
+Ders Adı: Üniversiteyi Anlamak ve Eleştirel Düşünce
+AKTS: 1
+------------------------------
+
+Ders Kodu: FİZ 101
+Ders Adı: Fizik I
+AKTS: 6
+------------------------------
+
+Ders Kodu: İNG 203
+Ders Adı: İngilizce Eleştirel Okuma ve Yazma
+AKTS: 4
+------------------------------
+
+Ders Kodu: KRP 101
+Ders Adı: Kariyer Planlama
+AKTS: 2
+------------------------------
+
+Ders Kodu: MATE 111
+Ders Adı: Matematik I
+AKTS: 6
+------------------------------
+
+Ders Kodu: MATE 213
+Ders Adı: Lineer Cebir
+AKTS: 5
+------------------------------
+
+Ders Kodu: YM 001
+Ders Adı: Staj I
+AKTS: 1
+------------------------------
+
+Ders Kodu: BİM 108
+Ders Adı: Algoritmalar ve Programlama II
+AKTS: 6
+------------------------------
+
+Ders Kodu: BİM 211
+Ders Adı: Ayrık Hesaplamalı Yapılar
+AKTS: 5
+------------------------------
+
+Ders Kodu: FİZ 102
+Ders Adı: Fizik II
+AKTS: 6
+------------------------------
+
+Ders Kodu: İNG 400
+Ders Adı: İş Hayatında İngilizce
+AKTS: 4
+------------------------------
+
+Ders Kodu: MATE 112
+Ders Adı: Matematik II
+AKTS: 6
+------------------------------
+
+Ders Kodu: YM 002
+Ders Adı: Staj II
+AKTS: 1
+------------------------------
+
+Ders Kodu: YM 201
+Ders Adı: Yazılım Mühendisliğinin Temelleri
+AKTS: 2
+------------------------------
+
+Ders Kodu: BİM 207
+Ders Adı: Nesneye Dayalı İleri Programlama
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 381
+Ders Adı: Veritabanı Sistemleri
+AKTS: 5
+------------------------------
+
+Ders Kodu: MATE 214
+Ders Adı: Diferansiyel Denklemler
+AKTS: 6
+------------------------------
+
+Ders Kodu: TAR 203
+Ders Adı: Atatürk İlkeleri İnkılâp Tarihi ve Modern Türkiye 'nin Oluşumu
+AKTS: 4
+------------------------------
+
+Ders Kodu: TÜRK 103
+Ders Adı: Türkçe Eleştirel Okuma ve Yazma
+AKTS: 4
+------------------------------
+
+Ders Kodu: BİM 404
+Ders Adı: Otomat Teorisi ve Formel Diller
+AKTS: 6
+------------------------------
+
+Ders Kodu: FİZ 223
+Ders Adı: Işık ve Optik
+AKTS: 6
+------------------------------
+
+Ders Kodu: FİZ 224
+Ders Adı: Modern Fizik I
+AKTS: 6
+------------------------------
+
+Ders Kodu: FİZ 325
+Ders Adı: Modern Fizik II
+AKTS: 6
+------------------------------
+
+Ders Kodu: FİZ 371
+Ders Adı: Mühendisler İçin Katıhal Fiziği
+AKTS: 6
+------------------------------
+
+Ders Kodu: KİM 101
+Ders Adı: Kimya
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 214
+Ders Adı: Programlama Dili Kavramları
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 218
+Ders Adı: Veri Yapıları ve Algoritmalar
+AKTS: 6
+------------------------------
+
+Ders Kodu: İSTA 208
+Ders Adı: Mühendislik için Temel Olasılık ve İstatistik
+AKTS: 6
+------------------------------
+
+Ders Kodu: YM 003
+Ders Adı: Staj III
+AKTS: 3
+------------------------------
+
+Ders Kodu: YM 212
+Ders Adı: İnsan Bilgisayar Etkileşimi
+AKTS: 5
+------------------------------
+
+Ders Kodu: YM 222
+Ders Adı: Yazılım Gereksinimleri Analizi
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 226
+Ders Adı: Bilgisayar Organizasyonu ve Mimarisi
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 355
+Ders Adı: Algoritma Analizi
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 361
+Ders Adı: İşletim Sistemleri
+AKTS: 6
+------------------------------
+
+Ders Kodu: MF 403
+Ders Adı: Mühendislikte Etik ve İş Güvenliği
+AKTS: 1
+------------------------------
+
+Ders Kodu: YM 004
+Ders Adı: Staj IV
+AKTS: 2
+------------------------------
+
+Ders Kodu: YM 341
+Ders Adı: Yazılım Tasarımı ve Mimarisi
+AKTS: 5
+------------------------------
+
+Ders Kodu: FİZ 223
+Ders Adı: Işık ve Optik
+AKTS: 6
+------------------------------
+
+Ders Kodu: FİZ 371
+Ders Adı: Mühendisler İçin Katıhal Fiziği
+AKTS: 6
+------------------------------
+
+Ders Kodu: KİM 101
+Ders Adı: Kimya
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 302
+Ders Adı: Bilgi ve Veri Analizi
+AKTS: 5
+------------------------------
+
+Ders Kodu: YM 304
+Ders Adı: Yazılım Süreç ve Proje Yönetimi
+AKTS: 5
+------------------------------
+
+Ders Kodu: YM 344
+Ders Adı: Yazılım Kalite Güvencesi ve Testi
+AKTS: 4
+------------------------------
+
+Ders Kodu: BİM 304
+Ders Adı: Sayısal Yöntemler
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 334
+Ders Adı: Microsoft .Net İle Uygulama Geliştirme
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 336
+Ders Adı: Yazılım Mühendisleri için Arabirim Tasarımı
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 404
+Ders Adı: Otomat Teorisi ve Formel Diller
+AKTS: 6
+------------------------------
+
+Ders Kodu: BİM 436
+Ders Adı: Sayısal Görüntü İşleme
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 444
+Ders Adı: Yapay Zeka
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 450
+Ders Adı: Dağıtık Sistemler
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 472
+Ders Adı: İnternet ve Web Teknolojileri
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİO 102
+Ders Adı: Biyolojiye Giriş
+AKTS: 6
+------------------------------
+
+Ders Kodu: EEM 102
+Ders Adı: Lojik Devreler
+AKTS: 6
+------------------------------
+
+Ders Kodu: EEM 222
+Ders Adı: Elektronik Devreleri I
+AKTS: 5
+------------------------------
+
+Ders Kodu: EEM 232
+Ders Adı: Ayrık Zamanlı İşaretler ve Sistem
+AKTS: 5
+------------------------------
+
+Ders Kodu: EEM 418
+Ders Adı: Mikroişlemciler ve IoT
+AKTS: 5
+------------------------------
+
+Ders Kodu: EEM 434
+Ders Adı: Yapay Sinir Ağları
+AKTS: 5
+------------------------------
+
+Ders Kodu: EM 222
+Ders Adı: İmalat Teknolojilerine Giriş
+AKTS: 5
+------------------------------
+
+Ders Kodu: EM 252
+Ders Adı: İş Etüdü ve Ergonomi
+AKTS: 6
+------------------------------
+
+Ders Kodu: EM 302
+Ders Adı: Yöneylem Araştırması II
+AKTS: 6
+------------------------------
+
+Ders Kodu: EM 304
+Ders Adı: Veri Analizi Uygulamaları
+AKTS: 6
+------------------------------
+
+Ders Kodu: EM 402
+Ders Adı: Çok Amaçlı Karar Analizine Giriş
+AKTS: 6
+------------------------------
+
+Ders Kodu: EM 405
+Ders Adı: Stokastik Modeller
+AKTS: 6
+------------------------------
+
+Ders Kodu: EM 425
+Ders Adı: Bilgisayarla Bütünleşik İmalat
+AKTS: 6
+------------------------------
+
+Ders Kodu: EM 436
+Ders Adı: Tedarik Zinciri Yönetimi
+AKTS: 6
+------------------------------
+
+Ders Kodu: EM 452
+Ders Adı: Endüstriyel Psikoloji
+AKTS: 6
+------------------------------
+
+Ders Kodu: EM 454
+Ders Adı: Stratejik ve Teknolojik Planlama
+AKTS: 6
+------------------------------
+
+Ders Kodu: EM 476
+Ders Adı: Çevresel İncelemeler
+AKTS: 6
+------------------------------
+
+Ders Kodu: FİZ 112
+Ders Adı: Dalgalar, Akışkanlar , Termodinamik
+AKTS: 6
+------------------------------
+
+Ders Kodu: FİZ 122
+Ders Adı: Elektrik ve Magnetizma
+AKTS: 6
+------------------------------
+
+Ders Kodu: FİZ 224
+Ders Adı: Modern Fizik I
+AKTS: 6
+------------------------------
+
+Ders Kodu: FİZ 324
+Ders Adı: Elektromanyetik Teori
+AKTS: 6
+------------------------------
+
+Ders Kodu: FİZ 334
+Ders Adı: Kuantum Mekaniği
+AKTS: 6
+------------------------------
+
+Ders Kodu: FİZ 417
+Ders Adı: Kozmoloji
+AKTS: 6
+------------------------------
+
+Ders Kodu: FİZ 432
+Ders Adı: Hesaplamalı Fizik
+AKTS: 6
+------------------------------
+
+Ders Kodu: FİZ 473
+Ders Adı: Optoelektronik ve Fotoniğe Giriş
+AKTS: 6
+------------------------------
+
+Ders Kodu: KİM 300
+Ders Adı: Nanobilim ve Nanoteknoloji
+AKTS: 6
+------------------------------
+
+Ders Kodu: MATE 174
+Ders Adı: Mühendisler İçin Geometri
+AKTS: 6
+------------------------------
+
+Ders Kodu: MATE 250
+Ders Adı: Karmaşık Fonksiyonlar Kuramı
+AKTS: 8
+------------------------------
+
+Ders Kodu: MATE 258
+Ders Adı: Kısmi Türevli Diferansiyel Denklemler
+AKTS: 6
+------------------------------
+
+Ders Kodu: MATE 354
+Ders Adı: Operasyonel Hesap
+AKTS: 6
+------------------------------
+
+Ders Kodu: MM 212
+Ders Adı: Malzeme Bilimi
+AKTS: 5
+------------------------------
+
+Ders Kodu: MM 332
+Ders Adı: İmalat Teknolojisi
+AKTS: 5
+------------------------------
+
+Ders Kodu: MM 414
+Ders Adı: Nanoteknolojinin Esasları
+AKTS: 6
+------------------------------
+
+Ders Kodu: YM 352
+Ders Adı: Yazılım Geçerliliği ve Doğrulanması
+AKTS: 5
+------------------------------
+
+Ders Kodu: YM 362
+Ders Adı: Yazılım Mühendisliğinde Çevik Geliştirme
+AKTS: 5
+------------------------------
+
+Ders Kodu: YM 364
+Ders Adı: Paralel İşlemeye Giriş
+AKTS: 5
+------------------------------
+
+Ders Kodu: YM 454
+Ders Adı: Yazılım Ölçütleri
+AKTS: 5
+------------------------------
+
+Ders Kodu: YM 462
+Ders Adı: Bilgi Güvenliği
+AKTS: 5
+------------------------------
+
+Ders Kodu: YM 464
+Ders Adı: Tasarım Desenleri
+AKTS: 5
+------------------------------
+
+Ders Kodu: YM 472
+Ders Adı: Bulut Bilişim Teknolojilerine Girişi
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 411
+Ders Adı: Bilgisayar Ağları
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 448
+Ders Adı: Veri Madenciliği ve Bilgi Keşfi
+AKTS: 5
+------------------------------
+
+Ders Kodu: YM 491
+Ders Adı: Bölüm Seçmeli  (2 Adet)
+AKTS: 10
+------------------------------
+
+Ders Kodu: ALM 101
+Ders Adı: Almanca I
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 311
+Ders Adı: Linux Sistem Yönetimi ve Programlama
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 335
+Ders Adı: Mobil Uygulama Geliştirme
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 339
+Ders Adı: İleri Java Uygulamaları
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 345
+Ders Adı: Bilişim Sistemlerinin Analizi ve Tasarımı
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 373
+Ders Adı: Web Programlama
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 439
+Ders Adı: Bilgisayarlı Grafik
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 441
+Ders Adı: Nesne Yönelimli Sistem Geliştirme
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 447
+Ders Adı: Bilgi Tabanlı Sistemler
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 493
+Ders Adı: Bulanık Sistem ve Yapay Sinir Ağları
+AKTS: 5
+------------------------------
+
+Ders Kodu: CIN 101
+Ders Adı: Çince I
+AKTS: 5
+------------------------------
+
+Ders Kodu: EKON 101
+Ders Adı: Ekonomiye Giriş
+AKTS: 5
+------------------------------
+
+Ders Kodu: EKON 211
+Ders Adı: Mikroekonomi
+AKTS: 5
+------------------------------
+
+Ders Kodu: EKON 321
+Ders Adı: Uluslararası Ekonomi
+AKTS: 5
+------------------------------
+
+Ders Kodu: EM 365
+Ders Adı: Karar Verme Teknikleri
+AKTS: 5
+------------------------------
+
+Ders Kodu: FEL 313
+Ders Adı: Meslek Etiği
+AKTS: 5
+------------------------------
+
+Ders Kodu: FRA 101
+Ders Adı: Fransızca I
+AKTS: 5
+------------------------------
+
+Ders Kodu: GRA 361
+Ders Adı: Kullanıcı Arayüz Tasarımı I
+AKTS: 5
+------------------------------
+
+Ders Kodu: HEM 309
+Ders Adı: Türk İşaret Dili
+AKTS: 5
+------------------------------
+
+Ders Kodu: ITA 101
+Ders Adı: İtalyanca I
+AKTS: 5
+------------------------------
+
+Ders Kodu: İŞ 211
+Ders Adı: Genel Muhasebe
+AKTS: 5
+------------------------------
+
+Ders Kodu: İŞ 241
+Ders Adı: Yönetim ve Organizasyon
+AKTS: 5
+------------------------------
+
+Ders Kodu: İŞ 353
+Ders Adı: Tüketici Davranışı
+AKTS: 5
+------------------------------
+
+Ders Kodu: İŞ 449
+Ders Adı: Girişimcilik ve Küçük İşletme Yönetimi
+AKTS: 5
+------------------------------
+
+Ders Kodu: İŞ 455
+Ders Adı: İnsan Kaynakları Yönetimi
+AKTS: 6
+------------------------------
+
+Ders Kodu: İŞ 463
+Ders Adı: Yenilik Yönetimi
+AKTS: 5
+------------------------------
+
+Ders Kodu: JAP 101
+Ders Adı: Japonca I
+AKTS: 5
+------------------------------
+
+Ders Kodu: MTH 401
+Ders Adı: Veri Yönetimi ve İş Zekasına Giriş
+AKTS: 5
+------------------------------
+
+Ders Kodu: PSİ 100
+Ders Adı: Genel Psikoloji
+AKTS: 5
+------------------------------
+
+Ders Kodu: PSİ 201
+Ders Adı: Psikolojide Eleştirel Düşünme
+AKTS: 4
+------------------------------
+
+Ders Kodu: RUS 101
+Ders Adı: Rusça I
+AKTS: 5
+------------------------------
+
+Ders Kodu: SBYO 105
+Ders Adı: Özel Eğitim ve Kaynaştırma
+AKTS: 4
+------------------------------
+
+Ders Kodu: SMR 400
+Ders Adı: Seminer
+AKTS: 2
+------------------------------
+
+Ders Kodu: YM 351
+Ders Adı: Yazılım Modelleme Ve Yöntemler
+AKTS: 5
+------------------------------
+
+Ders Kodu: YM 353
+Ders Adı: Yazılım Konfigürasyon Yönetimi
+AKTS: 5
+------------------------------
+
+Ders Kodu: YM 361
+Ders Adı: Yazılım Süreç İyileştirmeye Giriş
+AKTS: 5
+------------------------------
+
+Ders Kodu: YM 363
+Ders Adı: Yazılım Mühendisliğinde Biçimsel Yöntemler
+AKTS: 5
+------------------------------
+
+Ders Kodu: YM 455
+Ders Adı: Yazılım Bakımı
+AKTS: 5
+------------------------------
+
+Ders Kodu: YM 463
+Ders Adı: Yazılım Güvenliği
+AKTS: 5
+------------------------------
+
+Ders Kodu: YM 465
+Ders Adı: Reaktif Tasarım Desenleri
+AKTS: 5
+------------------------------
+
+Ders Kodu: YM 471
+Ders Adı: Büyük Veriye Giriş
+AKTS: 5
+------------------------------
+
+Ders Kodu: YM 005
+Ders Adı: Staj V
+AKTS: 3
+------------------------------
+
+Ders Kodu: YM 492
+Ders Adı: Bitirme Projesi
+AKTS: 7
+------------------------------
+
+Ders Kodu: AKT 401
+Ders Adı: Akademik Türkçe
+AKTS: 4
+------------------------------
+
+Ders Kodu: ALM 102
+Ders Adı: Almanca II
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 304
+Ders Adı: Sayısal Yöntemler
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 334
+Ders Adı: Microsoft .Net İle Uygulama Geliştirme
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 336
+Ders Adı: Yazılım Mühendisleri için Arabirim Tasarımı
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 436
+Ders Adı: Sayısal Görüntü İşleme
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 444
+Ders Adı: Yapay Zeka
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 450
+Ders Adı: Dağıtık Sistemler
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 472
+Ders Adı: İnternet ve Web Teknolojileri
+AKTS: 5
+------------------------------
+
+Ders Kodu: CIN 102
+Ders Adı: Çince II
+AKTS: 5
+------------------------------
+
+Ders Kodu: EEM 102
+Ders Adı: Lojik Devreler
+AKTS: 6
+------------------------------
+
+Ders Kodu: EEM 222
+Ders Adı: Elektronik Devreleri I
+AKTS: 5
+------------------------------
+
+Ders Kodu: EEM 232
+Ders Adı: Ayrık Zamanlı İşaretler ve Sistem
+AKTS: 5
+------------------------------
+
+Ders Kodu: EEM 418
+Ders Adı: Makroekonomi
+AKTS: 5
+------------------------------
+
+Ders Kodu: EM 252
+Ders Adı: İş Etüdü ve Ergonomi
+AKTS: 6
+------------------------------
+
+Ders Kodu: EM 302
+Ders Adı: Yöneylem Araştırması II
+AKTS: 6
+------------------------------
+
+Ders Kodu: EM 304
+Ders Adı: Veri Analizi Uygulamaları
+AKTS: 6
+------------------------------
+
+Ders Kodu: EM 402
+Ders Adı: Çok Amaçlı Karar Analizine Giriş
+AKTS: 6
+------------------------------
+
+Ders Kodu: EM 405
+Ders Adı: Stokastik Modeller
+AKTS: 6
+------------------------------
+
+Ders Kodu: EM 425
+Ders Adı: Bilgisayarla Bütünleşik İmalat
+AKTS: 6
+------------------------------
+
+Ders Kodu: EM 436
+Ders Adı: Tedarik Zinciri Yönetimi
+AKTS: 6
+------------------------------
+
+Ders Kodu: EM 452
+Ders Adı: Endüstriyel Psikoloji
+AKTS: 6
+------------------------------
+
+Ders Kodu: EM 454
+Ders Adı: Stratejik ve Teknolojik Planlama
+AKTS: 6
+------------------------------
+
+Ders Kodu: EM 476
+Ders Adı: Çevresel İncelemeler
+AKTS: 6
+------------------------------
+
+Ders Kodu: FİNS 442
+Ders Adı: Uluslararası Finans
+AKTS: 5
+------------------------------
+
+Ders Kodu: FRA 102
+Ders Adı: Fransızca II
+AKTS: 5
+------------------------------
+
+Ders Kodu: GLÇ 301
+Ders Adı: Gönüllülük Çalışmaları
+AKTS: 4
+------------------------------
+
+Ders Kodu: GRA 362
+Ders Adı: Kullanıcı Arayüz Tasarımı II
+AKTS: 5
+------------------------------
+
+Ders Kodu: HUK 211
+Ders Adı: İnsan Hakları
+AKTS: 5
+------------------------------
+
+Ders Kodu: ITA 102
+Ders Adı: İtalyanca II
+AKTS: 5
+------------------------------
+
+Ders Kodu: İŞ 242
+Ders Adı: Örgütsel Davranış
+AKTS: 6
+------------------------------
+
+Ders Kodu: İŞ 252
+Ders Adı: Pazarlama İlkeleri
+AKTS: 5
+------------------------------
+
+Ders Kodu: İŞ 342
+Ders Adı: Stratejik Yönetim ve İşletme Politikası
+AKTS: 6
+------------------------------
+
+Ders Kodu: İŞ 362
+Ders Adı: Satış Yönetimi
+AKTS: 5
+------------------------------
+
+Ders Kodu: İŞ 364
+Ders Adı: Üretim Yönetimi
+AKTS: 5
+------------------------------
+
+Ders Kodu: JAP 102
+Ders Adı: Japonca II
+AKTS: 5
+------------------------------
+
+Ders Kodu: MM 212
+Ders Adı: Malzeme Bilimi
+AKTS: 5
+------------------------------
+
+Ders Kodu: MM 264
+Ders Adı: Termodinamik I
+AKTS: 5
+------------------------------
+
+Ders Kodu: MM 332
+Ders Adı: İmalat Teknolojisi
+AKTS: 5
+------------------------------
+
+Ders Kodu: MM 414
+Ders Adı: Nanoteknolojinin Esasları
+AKTS: 6
+------------------------------
+
+Ders Kodu: MTH 404
+Ders Adı: Roket ve Füze Teknolojileri
+AKTS: 5
+------------------------------
+
+Ders Kodu: SB 106
+Ders Adı: Siyasi Tarih
+AKTS: 6
+------------------------------
+
+Ders Kodu: SMR 400
+Ders Adı: Seminer
+AKTS: 2
+------------------------------
+
+Ders Kodu: SOS 100
+Ders Adı: Genel Sosyoloji
+AKTS: 5
+------------------------------
+
+Ders Kodu: Uİ 466
+Ders Adı: Uluslararası İlişkilerde Baskı Grupları ve Lobicilik
+AKTS: 5
+------------------------------
+
+Ders Kodu: UTİ 312
+Ders Adı: E-Ticaret ve E -İşletme
+AKTS: 5
+------------------------------
+
+Ders Kodu: UTİ 354
+Ders Adı: Uluslararası Pazarlama
+AKTS: 5
+------------------------------
+
+Ders Kodu: UTİ 402
+Ders Adı: Uluslararası İşletmecilik
+AKTS: 5
+------------------------------
+
+Ders Kodu: YBS 101
+Ders Adı: Yönetim Bilişim Sistemlerine Giriş
+AKTS: 5
+------------------------------
+
+Ders Kodu: YM 352
+Ders Adı: Yazılım Geçerliliği ve Doğrulanması
+AKTS: 5
+------------------------------
+
+Ders Kodu: YM 362
+Ders Adı: Yazılım Mühendisliğinde Çevik Geliştirme
+AKTS: 5
+------------------------------
+
+Ders Kodu: YM 364
+Ders Adı: Paralel İşlemeye Giriş
+AKTS: 5
+------------------------------
+
+Ders Kodu: YM 454
+Ders Adı: Yazılım Ölçütleri
+AKTS: 5
+------------------------------
+
+Ders Kodu: YM 462
+Ders Adı: Bilgi Güvenliği
+AKTS: 5
+------------------------------
+
+Ders Kodu: YM 464
+Ders Adı: Tasarım Desenleri
+AKTS: 5
+------------------------------
+
+Ders Kodu: YM 472
+Ders Adı: Bulut Bilişim Teknolojilerine Girişi
+AKTS: 5
+------------------------------
+
+Ders Kodu: AKT 401
+Ders Adı: Akademik Türkçe
+AKTS: 4
+------------------------------
+
+Ders Kodu: ALM 101
+Ders Adı: Almanca I
+AKTS: 5
+------------------------------
+
+Ders Kodu: ALM 102
+Ders Adı: Almanca II
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 304
+Ders Adı: Sayısal Yöntemler
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 311
+Ders Adı: Linux Sistem Yönetimi ve Programlama
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 334
+Ders Adı: Microsoft .Net İle Uygulama Geliştirme
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 335
+Ders Adı: Mobil Uygulama Geliştirme
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 336
+Ders Adı: Yazılım Mühendisleri için Arabirim Tasarımı
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 339
+Ders Adı: İleri Java Uygulamaları
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 345
+Ders Adı: Bilişim Sistemlerinin Analizi ve Tasarımı
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 373
+Ders Adı: Web Programlama
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 404
+Ders Adı: Otomat Teorisi ve Formel Diller
+AKTS: 6
+------------------------------
+
+Ders Kodu: BİM 436
+Ders Adı: Sayısal Görüntü İşleme
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 439
+Ders Adı: Bilgisayarlı Grafik
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 441
+Ders Adı: Nesne Yönelimli Sistem Geliştirme
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 444
+Ders Adı: Yapay Zeka
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 447
+Ders Adı: Bilgi Tabanlı Sistemler
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 450
+Ders Adı: Dağıtık Sistemler
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 472
+Ders Adı: İnternet ve Web Teknolojileri
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİM 493
+Ders Adı: Bulanık Sistem ve Yapay Sinir Ağları
+AKTS: 5
+------------------------------
+
+Ders Kodu: BİO 102
+Ders Adı: Biyolojiye Giriş
+AKTS: 6
+------------------------------
+
+Ders Kodu: CIN 101
+Ders Adı: Çince I
+AKTS: 5
+------------------------------
+
+Ders Kodu: CIN 102
+Ders Adı: Lojik Devreler
+AKTS: 6
+------------------------------
+
+Ders Kodu: EEM 222
+Ders Adı: Elektronik Devreleri I
+AKTS: 5
+------------------------------
+
+Ders Kodu: EEM 232
+Ders Adı: Ayrık Zamanlı İşaretler ve Sistem
+AKTS: 5
+------------------------------
+
+Ders Kodu: EEM 418
+Ders Adı: Mikroişlemciler ve IoT
+AKTS: 5
+------------------------------
+
+Ders Kodu: EEM 434
+Ders Adı: Yapay Sinir Ağları
+AKTS: 5
+------------------------------
+
+Ders Kodu: EKON 101
+Ders Adı: Ekonomiye Giriş
+AKTS: 5
+------------------------------
+
+Ders Kodu: EKON 211
+Ders Adı: Mikroekonomi
+AKTS: 5
+------------------------------
+
+Ders Kodu: EKON 212
+Ders Adı: Makroekonomi
+AKTS: 5
+------------------------------
+
+Ders Kodu: EKON 321
+Ders Adı: Uluslararası Ekonomi
+AKTS: 5
+------------------------------
+
+Ders Kodu: EM 222
+Ders Adı: İmalat Teknolojilerine Giriş
+AKTS: 5
+------------------------------
+
+Ders Kodu: EM 252
+Ders Adı: İş Etüdü ve Ergonomi
+AKTS: 6
+------------------------------
+
+Ders Kodu: EM 302
+Ders Adı: Yöneylem Araştırması II
+AKTS: 6
+------------------------------
+
+Ders Kodu: EM 304
+Ders Adı: Veri Analizi Uygulamaları
+AKTS: 6
+------------------------------
+
+Ders Kodu: EM 365
+Ders Adı: Karar Verme Teknikleri
+AKTS: 5
+------------------------------
+
+Ders Kodu: EM 402
+Ders Adı: Çok Amaçlı Karar Analizine Giriş
+AKTS: 6
+------------------------------
+
+Ders Kodu: EM 405
+Ders Adı: Stokastik Modeller
+AKTS: 6
+------------------------------
+
+Ders Kodu: EM 425
+Ders Adı: Bilgisayarla Bütünleşik İmalat
+AKTS: 6
+------------------------------
+
+Ders Kodu: EM 436
+Ders Adı: Tedarik Zinciri Yönetimi
+AKTS: 6
+------------------------------
+
+Ders Kodu: EM 452
+Ders Adı: Endüstriyel Psikoloji
+AKTS: 6
+------------------------------
+
+Ders Kodu: EM 454
+Ders Adı: Stratejik ve Teknolojik Planlama
+AKTS: 6
+------------------------------
+
+Ders Kodu: EM 476
+Ders Adı: Çevresel İncelemeler
+AKTS: 6
+------------------------------
+
+Ders Kodu: FEL 313
+Ders Adı: Meslek Etiği
+AKTS: 5
+------------------------------
+
+Ders Kodu: FİNS 442
+Ders Adı: Uluslararası Finans
+AKTS: 5
+------------------------------
+
+Ders Kodu: FİZ 112
+Ders Adı: Dalgalar, Akışkanlar , Termodinamik
+AKTS: 6
+------------------------------
+
+Ders Kodu: FİZ 122
+Ders Adı: Elektrik ve Magnetizma
+AKTS: 6
+------------------------------
+
+Ders Kodu: FİZ 223
+Ders Adı: Işık ve Optik
+AKTS: 6
+------------------------------
+
+Ders Kodu: FİZ 224
+Ders Adı: Modern Fizik I
+AKTS: 6
+------------------------------
+
+Ders Kodu: FİZ 324
+Ders Adı: Elektromanyetik Teori
+AKTS: 6
+------------------------------
+
+Ders Kodu: FİZ 325
+Ders Adı: Modern Fizik II
+AKTS: 6
+------------------------------
+
+Ders Kodu: FİZ 334
+Ders Adı: Kuantum Mekaniği
+AKTS: 6
+------------------------------
+
+Ders Kodu: FİZ 371
+Ders Adı: Mühendisler İçin Katıhal Fiziği
+AKTS: 6
+------------------------------
+
+Ders Kodu: FİZ 417
+Ders Adı: Kozmoloji
+AKTS: 6
+------------------------------
+
+Ders Kodu: FİZ 432
+Ders Adı: Hesaplamalı Fizik
+AKTS: 6
+------------------------------
+
+Ders Kodu: FİZ 473
+Ders Adı: Optoelektronik ve Fotoniğe Giriş
+AKTS: 6
+------------------------------
+
+Ders Kodu: FRA 101
+Ders Adı: Fransızca I
+AKTS: 5
+------------------------------
+
+Ders Kodu: FRA 102
+Ders Adı: Fransızca II
+AKTS: 5
+------------------------------
+
+Ders Kodu: GLÇ 301
+Ders Adı: Gönüllülük Çalışmaları
+AKTS: 4
+------------------------------
+
+Ders Kodu: GRA 361
+Ders Adı: Kullanıcı Arayüz Tasarımı I
+AKTS: 5
+------------------------------
+
+Ders Kodu: GRA 362
+Ders Adı: Kullanıcı Arayüz Tasarımı II
+AKTS: 5
+------------------------------
+
+Ders Kodu: HEM 309
+Ders Adı: Türk İşaret Dili
+AKTS: 5
+------------------------------
+
+Ders Kodu: HUK 211
+Ders Adı: İnsan Hakları
+AKTS: 5
+------------------------------
+
+Ders Kodu: ITA 101
+Ders Adı: İtalyanca I
+AKTS: 5
+------------------------------
+
+Ders Kodu: ITA 102
+Ders Adı: İtalyanca II
+AKTS: 5
+------------------------------
+
+Ders Kodu: İŞ 211
+Ders Adı: Genel Muhasebe
+AKTS: 5
+------------------------------
+
+Ders Kodu: İŞ 241
+Ders Adı: Yönetim ve Organizasyon
+AKTS: 5
+------------------------------
+
+Ders Kodu: İŞ 242
+Ders Adı: Örgütsel Davranış
+AKTS: 6
+------------------------------
+
+Ders Kodu: İŞ 252
+Ders Adı: Pazarlama İlkeleri
+AKTS: 5
+------------------------------
+
+Ders Kodu: İŞ 342
+Ders Adı: Stratejik Yönetim ve İşletme Politikası
+AKTS: 6
+------------------------------
+
+Ders Kodu: İŞ 353
+Ders Adı: Tüketici Davranışı
+AKTS: 5
+------------------------------
+
+Ders Kodu: İŞ 362
+Ders Adı: Satış Yönetimi
+AKTS: 5
+------------------------------
+
+Ders Kodu: İŞ 364
+Ders Adı: Üretim Yönetimi
+AKTS: 5
+------------------------------
+
+Ders Kodu: İŞ 449
+Ders Adı: Girişimcilik ve Küçük İşletme Yönetimi
+AKTS: 5
+------------------------------
+
+Ders Kodu: İŞ 455
+Ders Adı: İnsan Kaynakları Yönetimi
+AKTS: 6
+------------------------------
+
+Ders Kodu: İŞ 463
+Ders Adı: Yenilik Yönetimi
+AKTS: 5
+------------------------------
+
+Ders Kodu: JAP 101
+Ders Adı: Japonca I
+AKTS: 5
+------------------------------
+
+Ders Kodu: JAP 102
+Ders Adı: Japonca II
+AKTS: 5
+------------------------------
+
+Ders Kodu: KİM 101
+Ders Adı: Kimya
+AKTS: 5
+------------------------------
+
+Ders Kodu: KİM 300
+Ders Adı: Nanobilim ve Nanoteknoloji
+AKTS: 6
+------------------------------
+
+Ders Kodu: MATE 174
+Ders Adı: Mühendisler İçin Geometri
+AKTS: 6
+------------------------------
+
+Ders Kodu: MATE 250
+Ders Adı: Karmaşık Fonksiyonlar Kuramı
+AKTS: 8
+------------------------------
+
+Ders Kodu: MATE 258
+Ders Adı: Kısmi Türevli Diferansiyel Denklemler
+AKTS: 6
+------------------------------
+
+Ders Kodu: MATE 354
+Ders Adı: Operasyonel Hesap
+AKTS: 6
+------------------------------
+
+Ders Kodu: MM 212
+Ders Adı: Malzeme Bilimi
+AKTS: 5
+------------------------------
+
+Ders Kodu: MM 264
+Ders Adı: Termodinamik I
+AKTS: 5
+------------------------------
+
+Ders Kodu: MM 332
+Ders Adı: İmalat Teknolojisi
+AKTS: 5
+------------------------------
+
+Ders Kodu: MM 414
+Ders Adı: Nanoteknolojinin Esasları
+AKTS: 6
+------------------------------
+
+Ders Kodu: MTH 401
+Ders Adı: Veri Yönetimi ve İş Zekasına Giriş
+AKTS: 5
+------------------------------
+
+Ders Kodu: MTH 404
+Ders Adı: Roket ve Füze Teknolojileri
+AKTS: 5
+------------------------------
+
+Ders Kodu: PSİ 100
+Ders Adı: Psikolojide Eleştirel Düşünme
+AKTS: 4
+------------------------------
+
+Ders Kodu: RUS 101
+Ders Adı: Rusça I
+AKTS: 5
+------------------------------
+
+Ders Kodu: SB 106
+Ders Adı: Siyasi Tarih
+AKTS: 6
+------------------------------
+
+Ders Kodu: SBYO 105
+Ders Adı: Özel Eğitim ve Kaynaştırma
+AKTS: 4
+------------------------------
+
+Ders Kodu: SMR 400
+Ders Adı: Seminer
+AKTS: 2
+------------------------------
+
+Ders Kodu: SOS 100
+Ders Adı: Genel Sosyoloji
+AKTS: 5
+------------------------------
+
+Ders Kodu: Uİ 466
+Ders Adı: Uluslararası İlişkilerde Baskı Grupları ve Lobicilik
+AKTS: 5
+------------------------------
+
+Ders Kodu: UTİ 312
+Ders Adı: E-Ticaret ve E -İşletme
+AKTS: 5
+------------------------------
+
+Ders Kodu: UTİ 354
+Ders Adı: Uluslararası Pazarlama
+AKTS: 5
+------------------------------
+
+Ders Kodu: UTİ 402
+Ders Adı: Uluslararası İşletmecilik
+AKTS: 5
+------------------------------
+
+Ders Kodu: YBS 101
+Ders Adı: Yönetim Bilişim Sistemlerine Giriş
+AKTS: 5
+------------------------------
+
+Ders Kodu: YM 351
+Ders Adı: Yazılım Modelleme Ve Yöntemler
+AKTS: 5
+------------------------------
+
+Ders Kodu: YM 352
+Ders Adı: Yazılım Geçerliliği ve Doğrulanması
+AKTS: 5
+------------------------------
+
+Ders Kodu: YM 353
+Ders Adı: Yazılım Konfigürasyon Yönetimi
+AKTS: 5
+------------------------------
+
+Ders Kodu: YM 361
+Ders Adı: Yazılım Süreç İyileştirmeye Giriş
+AKTS: 5
+------------------------------
+
+Ders Kodu: YM 362
+Ders Adı: Yazılım Mühendisliğinde Çevik Geliştirme
+AKTS: 5
+------------------------------
+
+Ders Kodu: YM 363
+Ders Adı: Yazılım Mühendisliğinde Biçimsel Yöntemler
+AKTS: 5
+------------------------------
+
+Ders Kodu: YM 364
+Ders Adı: Paralel İşlemeye Giriş
+AKTS: 5
+------------------------------
+
+Ders Kodu: YM 454
+Ders Adı: Yazılım Ölçütleri
+AKTS: 5
+------------------------------
+
+Ders Kodu: YM 455
+Ders Adı: Yazılım Bakımı
+AKTS: 5
+------------------------------
+
+Ders Kodu: YM 462
+Ders Adı: Bilgi Güvenliği
+AKTS: 5
+------------------------------
+
+Ders Kodu: YM 463
+Ders Adı: Yazılım Güvenliği
+AKTS: 5
+------------------------------
+
+Ders Kodu: YM 464
+Ders Adı: Tasarım Desenleri
+AKTS: 5
+------------------------------
+
+Ders Kodu: YM 465
+Ders Adı: Reaktif Tasarım Desenleri
+AKTS: 5
+------------------------------
+
+Ders Kodu: YM 471
+Ders Adı: Büyük Veriye Giriş
+AKTS: 5
+------------------------------
+
+Ders Kodu: YM 472
+Ders Adı: Bulut Bilişim Teknolojilerine Girişi
+AKTS: 5
+------------------------------
+

@@ -1,0 +1,48 @@
+Flask==3.0.3
+Werkzeug==3.0.1
+PyPDF2==3.0.1
+spacy==3.7.2
+google-generativeai==0.3.2
+reportlab==4.0.7
+python-dotenv==1.0.0
+requests==2.31.0
+
+# Doğuş Üniversitesi OBS Ders İçerikleri PDF İndirme Scripti
+# Ubuntu Sunucu Gereksinimleri
+
+# Selenium - Web otomasyonu için
+selenium>=4.15.0
+
+# Playwright - PDF oluşturma için
+playwright>=1.40.0
+
+# WebDriver Manager - Chrome driver otomatik yönetimi için
+webdriver-manager>=4.0.0
+
+# BeautifulSoup4 - HTML parsing için (opsiyonel)
+beautifulsoup4>=4.12.0
+
+# Lxml - XML/HTML parser için
+lxml>=4.9.0
+
+# Pillow - Görüntü işleme için (opsiyonel)
+Pillow>=10.0.0
+
+# Pandas - Veri işleme için (opsiyonel)
+pandas>=2.0.0
+
+# Openpyxl - Excel dosyaları için (opsiyonel)
+openpyxl>=3.1.0
+
+# Logging için ek paketler
+colorlog>=6.7.0
+
+# PDF işleme için ek paketler
+reportlab>=4.0.0
+PyPDF2>=3.0.0
+
+# Sistem paketleri (Ubuntu'da manuel kurulum gerekli):
+# sudo apt update
+# sudo apt install -y chromium-browser chromium-chromedriver
+# sudo apt install -y python3-pip python3-venv
+# sudo apt install -y libnss3 libatk1.0-0 libx11-xcb1 libxcomposite1 libxdamage1 libxrandr2 libgbm1 libasound2 libpangocairo-1.0-0 libatspi2.0-0 libcups2 libdrm2 libgtk-3-0 libxss1 libxshmfence1 libxinerama1 libpango-1.0-0 libxext6 libxfixes3 libxrender1 libxtst6 fonts-liberation libappindicator3-1 libdbusmenu-glib4 libdbusmenu-gtk3-4 libindicator3-7 

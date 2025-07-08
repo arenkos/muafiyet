@@ -1,0 +1,176 @@
+O&renci No (Student ID)
+T.C. Kimlik No (fR Identity No)
+
+Adi (Given Name)
+Soyad1 (Surname)
+
+Dogum Tarihi (Date of Birth)
+
+NOT DOKUM BELGESI(TRANSCRIPT)
+
+:202007012098
+:21116207886
+> AREN
+-KOS
+> 15/05/1997
+Ders Kodu Ders Adi
+(Course Code) (Course Name)
+YBL6109 - Tleri Programlama ***-Fizik I***
+BTAE208
+
+2020-2021 Bahar Dénemi
+(2020-2021 Spring Term)
+
+BLP 102
+BLP 104
+BLP 106
+BLP 108
+BLP 270
+BLP 276
+ING 402
+MSD 129
+
+DNO:3.86
+(GPA)
+
+Bilgisayar Donanim1
+(Computer Hardware)
+Gorsel Programlama
+(Visual Programming)
+Grafik ve Animasyon
+(Graphics and Animation)
+Internet Programcilig1
+(Internet Programming)
+Gortintti [sleme
+(Image Processing)
+Python Programlama
+(Python Programming)
+Is Hayatinda Ingilizce
+(Business English)
+Saglikli Yasam ve Fiziksel Aktivite
+(Physical Activity and Wellness)
+GNO:3.41
+(CGPA)
+
+2021-2022 Giiz Dinem1
+(2021-2022 Fall Term)
+
+ADP 103
+BLP 103
+BLP 201
+BLP 203
+BLP 205
+BLP 292
+ISG 291
+
+DNO:2.76
+(GPA)
+
+Bu belgenin dogrulugunu barkod numarasi ile https://www.turkiye.gov.tr/belge-dogrulama adresinden, mobil cihazlariniza
+yukleyeceginiz e-Devlet Kapisina ait Barkodlu Belge Dogrulama veya YOK Mobil uygulamasi vasitasi ile yandaki karekod
+
+Hukukun Temelleri
+(F undamentals of Law)
+Isletim Sistemleri
+(Operating Systems)
+Bilgisayar Aglar1
+(Computer Networks)
+Nesne Tabanli Programlama
+(Object Oriented Programming)
+Veri Yapilari
+(Data Structures)
+Bilgisayar Programciligi YOnlendirilmis Calisma
+(' Guided Study)
+Is Sagligi ve Gtivenligi
+(Occupational Safety and Health)
+GNO:3.22
+(CGPA)
+
+okutularak kontrol edilebilir.
+
+(You can verify this document by entering the barcode number into the barcode number section at https://www.turkiye.gov.tr/belge-dogrulama or by scanning the QR code via the
+
+DOGUS UNIVERSITESI
+(DOGUS UNIVERSITY)
+
+Dersin Statiisii Ogretim Dili
+(Course Status)
+
+Z Tr
+
+(Language)
+
+Tr
+Tr
+
+Tr
+
+Z,
+
+Z,
+
+Z,
+
+S Tr
+S Tr
+Z Ing.
+S Tr
+
+TAKTS:34
+(TECTS)
+
+Dersin Statiisii Ogretim Dili
+(Course Status)
+
+Z Tr
+
+(Language)
+
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+
+TAKTS:31
+(TECTS)
+
+mobile applications "E-government Barcoded Document Authentication” or "CoHE Mobile Application". )
+
+No O&O NY WN WN
+
+AKTS
+(ECTS)
+8.5
+
+oN)
+
+NWN N
+
+YOKTR3OHA9YH8CPDD0X
+Belge Tarihi: 10.11.2022
+(Date of Issue)
+Not Esdeger
+(Grade) (Equivalent)
+BB BLP 271
+AKTS Not Puan  Aciklama
+(ECTS) (Grade) (Points) (Comment)
+5 A 18.75 G
+6 A 22.5
+5 A 18.75 G
+5 A+ 20 G
+3 A 11.25 G
+4 A+ 16 G
+2 A+ 8 G
+4 A+ 16 G
+AKTS Not Puan  Aciklama
+(ECTS) (Grade) (Points) (Comment)
+5 C 10 G
+5 B+ 17.5 G
+4 D+ 6 G
+5 15 G
+5 C 10 G
+3 A+ 12 G
+4 A 15 G
+

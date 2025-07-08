@@ -1,0 +1,19 @@
+BLP 201	Bilgisayar Ağları	4	1.5	Önlisans
+BLP 271	İleri Programlama	4	3.0	Önlisans
+BLP 105	Veri Tabanı Yönetim Sistemleri	5	3.0	Önlisans
+MSD 203	Araştırma Yöntemleri	4	2.5	Önlisans
+MSD 103	Mühendislik Matematiği	4	4.0	Önlisans
+MSD 129	Sağlıklı Yaşam ve Fiziksel Aktivite	4	4.0	Önlisans
+BLP 292	Bilgisayar Programcılığı Yönlendirilmiş Çalışma	3	4.0	Önlisans
+ADP 103	Hukukun Temelleri	5	2.0	Önlisans
+BLP 203	Nesne Tabanlı Programlama	5	3.0	Önlisans
+BİL 101	Bilgi Teknolojileri Kullanımı	4	2.0	Önlisans
+BLP 101	Algoritma ve Programlama	5	4.0	Önlisans
+ASO 101	Akademik ve Sosyal Oryantasyon	1	0.0	Önlisans
+MSD 109	Fizik I	4	2.0	Önlisans
+BLP 276	Python Programlama	4	4.0	Önlisans
+BLP 205	Veri Yapıları	5	2.0	Önlisans
+BLP 108	İnternet Programcılığı	5	4.0	Önlisans
+İSG 291	İş Sağlığı ve Güvenliği	4	3.75	Önlisans
+TÜRK 103	Critical Reading and Writing in Turkish	4	2.5	Önlisans
+BLP 290	Bilgisayar Programcılığı Staj	10	0.0	Önlisans

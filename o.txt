@@ -1,0 +1,6 @@
+101 Akademik	ve Sosyal Oryantasyon	1	1
+101 Bilgi	Teknolojileri Kullanýmý	3	8
+271 Ýleri	Programlama	2	12
+290 Bilgisayar	Programcýlýðý Staj	10	G
+103 Hukukun	Temelleri	0	5
+205 Veri	Yapýlarý	3	10

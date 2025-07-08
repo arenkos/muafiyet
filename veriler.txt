@@ -1,0 +1,286 @@
+Öğrenci No (Student ID)	Öğrenci No (Student ID)	: 202007012098							(Date of Issue)	(Date of Issue)	
+T.C. Kimlik No (TR Identity No)	T.C. Kimlik No (TR Identity No)	: 21116207886									
+Adı (Given Name)		: AREN									
+Soyadı (Surname)		: KOÞ									
+Doğum Tarihi (Date of Birth)	Doğum Tarihi (Date of Birth)	: 15/05/1997									
+"Eğitim Birimi
+(Academic Unit)"		"
+: Meslek Yüksekokulu
+(Vocational School)"		"Kayıt Tarihi
+(Admission Date)"	"Kayıt Tarihi
+(Admission Date)"		"
+: 24/02/2021"	"
+: 24/02/2021"			
+"Programı/ABD/ASD
+(Program/Department)"	"Programı/ABD/ASD
+(Program/Department)"	": Bilgisayar Programcılığı Pr.
+(Computer Programming Pr.)"		"Giriş Türü
+(Entry Type)"			": Yatay Geçiş - Kurum Ýçi
+(Internal Transfer)"	": Yatay Geçiş - Kurum Ýçi
+(Internal Transfer)"	": Yatay Geçiş - Kurum Ýçi
+(Internal Transfer)"	": Yatay Geçiş - Kurum Ýçi
+(Internal Transfer)"	
+"Akademik Derece Türü
+(Type of Academic Degree)"	"Akademik Derece Türü
+(Type of Academic Degree)"	": Önlisans
+(Associate Degree)"		"Sınıfı / Dönemi
+(Year / Semester)"	"Sınıfı / Dönemi
+(Year / Semester)"		": 2. Sınıf / 4 Dönem
+(2nd Grade / 4 Semester)"	": 2. Sınıf / 4 Dönem
+(2nd Grade / 4 Semester)"	": 2. Sınıf / 4 Dönem
+(2nd Grade / 4 Semester)"		
+"Öğretim Dili
+(Language of Instruction)"	"Öğretim Dili
+(Language of Instruction)"	": Türkçe
+(Turkish)"		"Not Sistemi
+(Grading System)"	"Not Sistemi
+(Grading System)"		": 4`lük Not Sistemi
+(4.0 Scale)"	": 4`lük Not Sistemi
+(4.0 Scale)"	": 4`lük Not Sistemi
+(4.0 Scale)"		
+"Eğitim ve Öğretim Türü
+(Type of Education)"	"Eğitim ve Öğretim Türü
+(Type of Education)"	": Örgün Öğretim
+(Formal Education)"		"Genel Not Ortalaması
+(Cumulative GPA)"	"Genel Not Ortalaması
+(Cumulative GPA)"	"Genel Not Ortalaması
+(Cumulative GPA)"	: 3.22				
+"Program Türü
+(Program Type)"		": Anadal
+(Major)"		"Mezuniyet Tarihi
+(Date of Graduation)"	"Mezuniyet Tarihi
+(Date of Graduation)"		: 03/03/2022	: 03/03/2022			
+"Öğrenim Durumu
+(Education Status)"		": Kaydı Silinmiştir. (Ayrılan Öğrenciler) - Mezuniyet
+(Registration Has Been Deleted. (Dropped Students) - Graduation)"	": Kaydı Silinmiştir. (Ayrılan Öğrenciler) - Mezuniyet
+(Registration Has Been Deleted. (Dropped Students) - Graduation)"	"Kredi Türü
+(Credit Type)"			": AKTS
+(ECTS)"	": AKTS
+(ECTS)"			
+"ISCED Kodu
+(ISCED Code)"		: 0612		"Başarılan Kredi
+(Credits Completed)"	"Başarılan Kredi
+(Credits Completed)"		: 120				
+"2020-2021 Muafiyet Dönemi
+(2020-2021 Course Exemption Period)"	"2020-2021 Muafiyet Dönemi
+(2020-2021 Course Exemption Period)"		"Dersin Statüsü
+(Course Status)"	"Öğretim Dili
+(Language)"	T	U	UK	"AKTS
+(ECTS)"	"Not
+(Grade)"	"Puan
+(Points)"	"Açıklama
+(Comment)"
+"* ASO 101
+BÝL 101"	"Akademik ve Sosyal Oryantasyon
+(Academic and Social Orientation)
+Bilgi Teknolojileri Kullanımı
+(Information Technology)"	"Akademik ve Sosyal Oryantasyon
+(Academic and Social Orientation)
+Bilgi Teknolojileri Kullanımı
+(Information Technology)"	"Z
+Z"	"Tr
+Tr"	"1
+2"	"0
+1"	"1
+3"	"1
+4"	"G
+C"	"0
+8"	"G
+G"
+BLP 101	"Algoritma ve Programlama
+(Algorithms and Programming)"	"Algoritma ve Programlama
+(Algorithms and Programming)"	Z	Tr	1	2	2	5	A+	20	G
+BLP 105	Veri Tabanı Yönetim Sistemleri	Veri Tabanı Yönetim Sistemleri	Z	Tr	1	2	1	5	B	15	G
+BLP 271	"(Database Management Systems)
+Ýleri Programlama
+(Advanced Programming)"	"(Database Management Systems)
+Ýleri Programlama
+(Advanced Programming)"	S	Tr	1	2	2	4	B	12	G
+"* BLP 290
+ÝNG 203"	"Bilgisayar Programcılığı Staj
+(Internship)
+Ýngilizcede Eleştirel Okuma ve Yazma
+(Critical Reading and Writing in English)"	"Bilgisayar Programcılığı Staj
+(Internship)
+Ýngilizcede Eleştirel Okuma ve Yazma
+(Critical Reading and Writing in English)"	"Z
+Z"	"Tr
+Ýng."	"0
+4"	"2
+0"	"0
+4"	"10
+4"	"G
+A+"	"0
+16"	"G
+G"
+KRP 101	"Kariyer Planlama
+(Career Planning)"	"Kariyer Planlama
+(Career Planning)"	Z	Tr	1	0	1	2	A	7.5	G
+MSD 103	Mühendislik Matematiği	Mühendislik Matematiği	S	Tr	3	0	3	4	A+	16	G
+(Engineering Mathematics)	(Engineering Mathematics)	(Engineering Mathematics)	(Engineering Mathematics)	(Engineering Mathematics)	(Engineering Mathematics)	(Engineering Mathematics)	(Engineering Mathematics)	(Engineering Mathematics)	(Engineering Mathematics)	(Engineering Mathematics)	(Engineering Mathematics)
+MSD 109	Fizik I		S	Tr	3	0	3	4	C	8	G
+(Physics I)	(Physics I)	(Physics I)	(Physics I)	(Physics I)	(Physics I)	(Physics I)	(Physics I)	(Physics I)	(Physics I)	(Physics I)	(Physics I)
+"MSD 203
+TAR 203
+TÜRK 103"	"Araştırma Yöntemleri
+(Advanced Research Methods)
+Principles of Atatürk and Formation of Modern Turkey
+(Principles of Atatürk and Formation of Modern Turkey)
+Critical Reading and Writing in Turkish
+(Critical Reading and Writing in Turkish)"	"Araştırma Yöntemleri
+(Advanced Research Methods)
+Principles of Atatürk and Formation of Modern Turkey
+(Principles of Atatürk and Formation of Modern Turkey)
+Critical Reading and Writing in Turkish
+(Critical Reading and Writing in Turkish)"	"S Z
+Z"	"Tr Ýng.
+Tr"	"2
+4
+4"	"0
+0
+0"	"2
+4
+4"	"4
+4
+4"	"C+ B
+C+"	"10
+12
+10"	"G G
+G"
+DNO:3.06	GNO:3.06	GNO:3.06	TUK:30	TAKTS:55							
+"(GPA)	(CGPA)
+Doğuş Üniversitesi Yatay Geçişle Geldi
+(Doğuş Üniversitesi Arrived With Horizontal Transfer)"	"(GPA)	(CGPA)
+Doğuş Üniversitesi Yatay Geçişle Geldi
+(Doğuş Üniversitesi Arrived With Horizontal Transfer)"	"(GPA)	(CGPA)
+Doğuş Üniversitesi Yatay Geçişle Geldi
+(Doğuş Üniversitesi Arrived With Horizontal Transfer)"	(TNK)	(TECTS)							
+Ders Kodu	Ders Kodu	Ders Adı			AKTS	AKTS			Eşdeğer	Eşdeğer	
+(Course Code) (Course Name)	(Course Code) (Course Name)	(Course Code) (Course Name)			(ECTS)	(ECTS)			(Equivalent)	(Equivalent)	
+ASO 101	ASO 101	Akademik ve Sosyal Oryantasyon*** *			1.0	1.0			ASO 101	ASO 101	
+BLP 105	BLP 105	Veri Tabanı Yönetim Sistemleri****			5.0	5.0		B	BLP 105	BLP 105	
+BTAE101-	BTAE101-	Bilişim ve Matematik*-Matematik II**			10.0	10.0		AA	MSD 103	MSD 103	
+YBLG116	YBLG116										
+BTAE102	BTAE102	Eğitimde Bilgi Teknolojileri*			5.0	5.0		CC	BÝL 101	BÝL 101	
+BTAE104	BTAE104	Algoritma Tasarımı ve Geliştirme*			5.0	5.0		AA	BLP 101	BLP 101	
+FÝZ103	FÝZ103	Fizik I***			4.5	4.5		CC	MSD 109	MSD 109	
+GK101-GK105 Atatürk Ýlkeleri ve Ýnkılap Tarihi I*- II*	GK101-GK105 Atatürk Ýlkeleri ve Ýnkılap Tarihi I*- II*	GK101-GK105 Atatürk Ýlkeleri ve Ýnkılap Tarihi I*- II*			6.0	6.0		BB	TAR 203	TAR 203	
+GK102-106	GK102-106	Yabancı Dil I*-II*			6.0	6.0		AA	ÝNG 203	ÝNG 203	
+GK103-GK107 Türk Dili I*-Türk Dili II*	GK103-GK107 Türk Dili I*-Türk Dili II*	GK103-GK107 Türk Dili I*-Türk Dili II*			10.0	10.0		CB	TÜRK 103	TÜRK 103	
+KRP 101	KRP 101	Kariyer Planlama****			2.0	2.0		A	KRP 101	KRP 101	
+YBL6109	YBL6109	Araştırma ve Sunum Teknikleri**			4.0	4.0		CB	MSD 203	MSD 203	
+Öğrenci No (Student ID)	Öğrenci No (Student ID)	: 202007012098							(Date of Issue)	(Date of Issue)	
+T.C. Kimlik No (TR Identity No)	T.C. Kimlik No (TR Identity No)	: 21116207886									
+Adı (Given Name)		: AREN									
+Soyadı (Surname)		: KOÞ									
+Doğum Tarihi (Date of Birth)	Doğum Tarihi (Date of Birth)	: 15/05/1997									
+	Ders Kodu	Ders Adı				AKTS		Not	Eşdeğer	Eşdeğer	
+	(Course Code) (Course Name)	(Course Code) (Course Name)			(ECTS)	(ECTS)	(Grade)	(Grade)	(Equivalent)	(Equivalent)	
+	YBL6109 -	Ýleri Programlama ***-Fizik I***				8.5		BB	BLP 271	BLP 271	
+	BTAE208										
+"2020-2021 Bahar Dönemi
+(2020-2021 Spring Term)"	"2020-2021 Bahar Dönemi
+(2020-2021 Spring Term)"		"Dersin Statüsü
+(Course Status)"	"Öğretim Dili
+(Language)"	T	U	UK	"AKTS
+(ECTS)"	"Not
+(Grade)"	"Puan
+(Points)"	"Açıklama
+(Comment)"
+BLP 102	"Bilgisayar Donanımı
+(Computer Hardware)"	"Bilgisayar Donanımı
+(Computer Hardware)"	Z	Tr	3	0	3	5	A	18.75	G
+BLP 104	"Görsel Programlama
+(Visual Programming)"	"Görsel Programlama
+(Visual Programming)"	Z	Tr	2	2	3	6	A	22.5	G
+"BLP 106
+BLP 108
+BLP 270"	"Grafik ve Animasyon
+(Graphics and Animation)
+Ýnternet Programcılığı
+(Internet Programming)
+Görüntü Ýşleme
+(Image Processing)"	"Grafik ve Animasyon
+(Graphics and Animation)
+Ýnternet Programcılığı
+(Internet Programming)
+Görüntü Ýşleme
+(Image Processing)"	"Z Z
+S"	"Tr Tr
+Tr"	"1
+1
+2"	"2
+2
+1"	"2
+2
+3"	"5
+5
+3"	"A A+
+A"	"18.75
+20
+11.25"	"G G
+G"
+"BLP 276
+ÝNG 402"	"Python Programlama
+(Python Programming)
+Ýş Hayatında Ýngilizce
+(Business English)"	"Python Programlama
+(Python Programming)
+Ýş Hayatında Ýngilizce
+(Business English)"	"S
+Z"	"Tr
+Ýng."	"1
+2"	"2
+0"	"2
+2"	"4
+2"	"A+
+A+"	"16
+8"	"G
+G"
+MSD 129	"Sağlıklı Yaşam ve Fiziksel Aktivite
+(Physical Activity and Wellness)"	"Sağlıklı Yaşam ve Fiziksel Aktivite
+(Physical Activity and Wellness)"	S	Tr	3	0	3	4	A+	16	G
+DNO:3.86	GNO:3.41	GNO:3.41	TUK:20	TAKTS:34							
+(GPA)	(CGPA)		(TNK)	(TECTS)							
+"2021-2022 Güz Dönemi
+(2021-2022 Fall Term)"	"2021-2022 Güz Dönemi
+(2021-2022 Fall Term)"		"Dersin Statüsü
+(Course Status)"	"Öğretim Dili
+(Language)"	T	U	UK	"AKTS
+(ECTS)"	"Not
+(Grade)"	"Puan
+(Points)"	"Açıklama
+(Comment)"
+ADP 103	Hukukun Temelleri	Hukukun Temelleri	Z	Tr	2	0	2	5	C	10	G
+BLP 103	"(Fundamentals of Law)
+Ýşletim Sistemleri
+(Operating Systems)"	"(Fundamentals of Law)
+Ýşletim Sistemleri
+(Operating Systems)"	Z	Tr	3	0	3	5	B+	17.5	G
+BLP 201	"Bilgisayar Ağları
+(Computer Networks)"	"Bilgisayar Ağları
+(Computer Networks)"	Z	Tr	2	2	3	4	D+	6	G
+BLP 203	"Nesne Tabanlı Programlama
+(Object Oriented Programming)"	"Nesne Tabanlı Programlama
+(Object Oriented Programming)"	Z	Tr	2	2	3	5	B	15	G
+BLP 205	"Veri Yapıları
+(Data Structures)"		Z	Tr	2	1	3	5	C	10	G
+"BLP 292
+ÝSG 291"	"Bilgisayar Programcılığı Yönlendirilmiş Çalışma
+(Guided Study)
+Ýş Sağlığı ve Güvenliği
+(Occupational Safety and Health)"	"Bilgisayar Programcılığı Yönlendirilmiş Çalışma
+(Guided Study)
+Ýş Sağlığı ve Güvenliği
+(Occupational Safety and Health)"	"Z
+Z"	"Tr
+Tr"	"0
+2"	"2
+0"	"2
+2"	"3
+4"	"A+
+A"	"12
+15"	"G
+G"
+DNO:2.76	GNO:3.22	GNO:3.22	TUK:18	TAKTS:31							
+(GPA)	(CGPA)		(TNK)	(TECTS)							

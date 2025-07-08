@@ -1,0 +1,293 @@
+Öðrenci No
+T.C. Kimlik No
+Adý
+Doðum Tarihi202007012098
+21116207886
+AREN
+15/05/1997:
+::
+:(Student ID)
+(TR Identity No)
+(Given Name)
+(Date of Birth)(Surname) : Soyadý KOÞ
+ DOÐUÞ ÜNÝVERSÝTESÝ
+NOT DÖKÜM BELGESÝ(DOGUS UNIVERSITY)
+(TRANSCRIPT)
+10.11.2022 Belge Tarihi
+(Date of Issue):
+ YOKTR3OHA9H8CPDD0X
+Eðitim Birimi:Meslek Yüksekokulu
+(Academic Unit) (Vocational School)
+Programý/ABD/ASD:Bilgisayar Programcýlýðý Pr.
+(Program/Department) (Computer Programming Pr.)
+Akademik Derece Türü:Önlisans
+(Type of Academic Degree) (Associate Degree)
+Öðretim Dili:Türkçe
+(Language of Instruction) (Turkish)
+Eðitim ve Öðretim Türü:Örgün Öðretim
+(Type of Education) (Formal Education)
+Program Türü:Anadal
+(Program Type) (Major)
+Kaydý Silinmiþtir. (Ayrýlan Öðrenciler) - Mezuniyet:Öðrenim Durumu
+(Education Status) (Registration Has Been Deleted. (Dropped Students) - Graduation)
+:ISCED Kodu0612(ISCED Code)24/02/2021:Kayýt Tarihi
+(Admission Date)
+:Yatay Geçiþ - Kurum Ýçi
+(Internal Transfer)Giriþ Türü
+(Entry Type)
+Sýnýfý / Dönemi:2. Sýnýf / 4 Dönem
+(Year / Semester) (2nd Grade / 4 Semester)
+:Not Sistemi 4`lük Not Sistemi
+(Grading System) (4.0 Scale)
+3.22:Genel Not Ortalamasý
+(Cumulative GPA)
+03/03/2022:Mezuniyet Tarihi
+(Date of Graduation)
+Kredi Türü:AKTS
+(Credit Type) (ECTS)
+Baþarýlan Kredi120:(Credits Completed)
+2020-2021 Muafiyet Dönemi
+(2020-2021 Course Exemption Period)Dersin Statüsü
+(Course Status)Öðretim Dili
+(Language)T U UKAKTS
+(ECTS)Not
+(Grade)Puan
+(Points)Açýklama
+(Comment)
+*ASO 101 Akademik ve Sosyal Oryantasyon
+(Academic and Social Orientation)Z Tr 1 0 1 1 0 G  G
+BÝL 101 Bilgi Teknolojileri Kullanýmý
+(Information Technology)Z Tr 2 1 3 4 8 C  G
+BLP 101 Algoritma ve Programlama
+(Algorithms and Programming)Z Tr 1 2 2 5 20 A+  G
+BLP 105 Veri Tabaný Yönetim Sistemleri
+(Database Management Systems)Z Tr 1 2 1 5 15 B  G
+BLP 271 Ýleri Programlama
+(Advanced Programming)S Tr 1 2 2 4 12 B  G
+*BLP 290 Bilgisayar Programcýlýðý Staj
+(Internship)Z Tr 0 2 0 10 0 G  G
+ÝNG 203 Ýngilizcede Eleþtirel Okuma ve Yazma
+(Critical Reading and Writing in English)Z Ýng. 4 0 4 4 16 A+  G
+KRP 101 Kariyer Planlama
+(Career Planning)Z Tr 1 0 1 2 7.5 A  G
+MSD 103 Mühendislik Matematiði
+(Engineering Mathematics)S Tr 3 0 3 4 16 A+  G
+MSD 109 Fizik I
+(Physics I)S Tr 3 0 3 4 8 C  G
+MSD 203 Araþtýrma Yöntemleri
+(Advanced Research Methods)S Tr 2 0 2 4 10 C+  G
+TAR 203 Principles of Atatürk and Formation of Modern Turkey
+(Principles of Atatürk and Formation of Modern Turkey)Z Ýng. 4 0 4 4 12 B  G
+TÜRK 103 Critical Reading and Writing in Turkish
+(Critical Reading and Writing in Turkish)Z Tr 4 0 4 4 10 C+  G
+DNO:
+(GPA)3.06 GNO:
+(CGPA)3.06 30 55 TUK:
+(TNK)TAKTS:
+(TECTS)
+Doðuþ Üniversitesi Yatay Geçiþle Geldi
+(Doðuþ Üniversitesi Arrived With Horizontal Transfer)
+Ders Kodu
+(Course Code)Ders Adý
+(Course Name)AKTS
+(ECTS)Eþdeðer
+(Equivalent)
+ASO 101 Akademik ve Sosyal Oryantasyon*** * 1.0 ASO 101
+BLP 105 Veri Tabaný Yönetim Sistemleri**** 5.0 B BLP 105
+BTAE101-
+YBLG116Biliþim ve Matematik*-Matematik II** 10.0 AA MSD 103
+BTAE102 Eðitimde Bilgi Teknolojileri* 5.0 CC BÝL 101
+BTAE104 Algoritma Tasarýmý ve Geliþtirme* 5.0 AA BLP 101
+FÝZ103 Fizik I*** 4.5 CC MSD 109
+GK101-GK105 Atatürk Ýlkeleri ve Ýnkýlap Tarihi I*- II* 6.0 BB TAR 203
+GK102-106 Yabancý Dil I*-II* 6.0 AA ÝNG 203
+GK103-GK107 Türk Dili I*-Türk Dili II* 10.0 CB TÜRK 103
+KRP 101  Kariyer Planlama**** 2.0 A KRP 101
+YBL6109 Araþtýrma ve Sunum Teknikleri** 4.0 CB MSD 203
+1 3/Bu belgenin doðruluðunu barkod numarasý ile https://www.turkiye.gov.tr/belge-dogrulama adresinden, mobil cihazlarýnýza
+yükleyeceðiniz e-Devlet Kapýsýna ait Barkodlu Belge Doðrulama veya YÖK Mobil uygulamasý vasýtasý ile yandaki karekod
+okutularak kontrol edilebilir.
+ (You can verify this document by entering the barcode number into the barcode number section at https://www.turkiye.gov.tr/belge-dogrulama or by scanning the QR code via the
+mobile applications "E-government Barcoded Document Authentication" or "CoHE Mobile Application". )Öðrenci No
+T.C. Kimlik No
+Adý
+Doðum Tarihi202007012098
+21116207886
+AREN
+15/05/1997:
+::
+:(Student ID)
+(TR Identity No)
+(Given Name)
+(Date of Birth)(Surname) : Soyadý KOÞ
+ DOÐUÞ ÜNÝVERSÝTESÝ
+NOT DÖKÜM BELGESÝ(DOGUS UNIVERSITY)
+(TRANSCRIPT)
+10.11.2022 Belge Tarihi
+(Date of Issue):
+ YOKTR3OHA9H8CPDD0X
+Ders Kodu
+(Course Code)Ders Adý
+(Course Name)AKTS
+(ECTS)Not
+(Grade)Eþdeðer
+(Equivalent)
+YBL6109 -
+BTAE208Ýleri Programlama ***-Fizik I*** 8.5 BB BLP 271
+2020-2021 Bahar Dönemi
+(2020-2021 Spring Term)Dersin Statüsü
+(Course Status)Öðretim Dili
+(Language)T U UKAKTS
+(ECTS)Not
+(Grade)Puan
+(Points)Açýklama
+(Comment)
+BLP 102 Bilgisayar Donanýmý
+(Computer Hardware)Z Tr 3 0 3 5 18.75 A  G
+BLP 104 Görsel Programlama
+(Visual Programming)Z Tr 2 2 3 6 22.5 A  G
+BLP 106 Grafik ve Animasyon
+(Graphics and Animation)Z Tr 1 2 2 5 18.75 A  G
+BLP 108 Ýnternet Programcýlýðý
+(Internet Programming)Z Tr 1 2 2 5 20 A+  G
+BLP 270 Görüntü Ýþleme
+(Image Processing)S Tr 2 1 3 3 11.25 A  G
+BLP 276 Python Programlama
+(Python Programming)S Tr 1 2 2 4 16 A+  G
+ÝNG 402 Ýþ Hayatýnda Ýngilizce
+(Business English)Z Ýng. 2 0 2 2 8 A+  G
+MSD 129 Saðlýklý Yaþam ve Fiziksel Aktivite
+(Physical Activity and Wellness)S Tr 3 0 3 4 16 A+  G
+DNO:
+(GPA)3.86 GNO:
+(CGPA)3.41 20 34 TUK:
+(TNK)TAKTS:
+(TECTS)
+2021-2022 Güz Dönemi
+(2021-2022 Fall Term)Dersin Statüsü
+(Course Status)Öðretim Dili
+(Language)T U UKAKTS
+(ECTS)Not
+(Grade)Puan
+(Points)Açýklama
+(Comment)
+ADP 103 Hukukun Temelleri
+(Fundamentals of Law)Z Tr 2 0 2 5 10 C  G
+BLP 103 Ýþletim Sistemleri
+(Operating Systems)Z Tr 3 0 3 5 17.5 B+  G
+BLP 201 Bilgisayar Aðlarý
+(Computer Networks)Z Tr 2 2 3 4 6 D+  G
+BLP 203 Nesne Tabanlý Programlama
+(Object Oriented Programming)Z Tr 2 2 3 5 15 B  G
+BLP 205 Veri Yapýlarý
+(Data Structures)Z Tr 2 1 3 5 10 C  G
+BLP 292 Bilgisayar Programcýlýðý Yönlendirilmiþ Çalýþma
+(Guided Study)Z Tr 0 2 2 3 12 A+  G
+ÝSG 291 Ýþ Saðlýðý ve Güvenliði
+(Occupational Safety and Health)Z Tr 2 0 2 4 15 A  G
+DNO:
+(GPA)2.76 GNO:
+(CGPA)3.22 18 31 TUK:
+(TNK)TAKTS:
+(TECTS)
+2 3/Bu belgenin doðruluðunu barkod numarasý ile https://www.turkiye.gov.tr/belge-dogrulama adresinden, mobil cihazlarýnýza
+yükleyeceðiniz e-Devlet Kapýsýna ait Barkodlu Belge Doðrulama veya YÖK Mobil uygulamasý vasýtasý ile yandaki karekod
+okutularak kontrol edilebilir.
+ (You can verify this document by entering the barcode number into the barcode number section at https://www.turkiye.gov.tr/belge-dogrulama or by scanning the QR code via the
+mobile applications "E-government Barcoded Document Authentication" or "CoHE Mobile Application". )Öðrenci No
+T.C. Kimlik No
+Adý
+Doðum Tarihi202007012098
+21116207886
+AREN
+15/05/1997:
+::
+:(Student ID)
+(TR Identity No)
+(Given Name)
+(Date of Birth)(Surname) : Soyadý KOÞ
+ DOÐUÞ ÜNÝVERSÝTESÝ
+NOT DÖKÜM BELGESÝ(DOGUS UNIVERSITY)
+(TRANSCRIPT)
+10.11.2022 Belge Tarihi
+(Date of Issue):
+ YOKTR3OHA9H8CPDD0X
+Açýklamalar (Explanations)
+Ders kodunun baþýnda * olan dersler genel not
+ortalamasýna dahil edilmeyen derslerdir.
+(The courses that have the mark "*" at the beginning of their codes are
+courses that are not included in the grade point average.)
+Kýsaltmalar Not Bareminde yer alan kýsaltmalarý
+içermemektedir. Harf notlarýna iliþkin açýklamalar ilgili
+kýsýmda verilmiþtir.
+(Abbreviations do not include the abbreviations in the Grade Scale.
+Explanations for the letter grades are given in the relevant section.)
+Ceza Almadý.
+(No Penalty)
+Kýsaltmalar (Abbreviations)
+AKTS:Avrupa Kredi Transfer Sistemi
+(European Credit Transfer and Accumulation System)
+DNO:Dönem Not Ortalamasý
+(Grade Point Average)
+G:Geçti
+(Pass)
+GNO:Genel Not Ortalamasý
+(Cumulative Grade Point Average)
+S:Seçmeli
+(Elective Course)
+T:Teorik Ders Saati
+(Theoretical Course Hours)
+TAKTS:Toplam AKTS
+(Total ECTS Credits)
+TUK:Toplam Ulusal Kredi
+(Total National Credits)
+U:Uygulamalý Ders Saati
+(Practical Course Hours)
+UK:Ulusal Kredi
+(National Credits)
+Z:Zorunlu
+(Compulsory Course) (Grade Scale) Not Baremi :2020 Yýlý Not Baremi
+( Grade Scale for 2020)
+Puanlar
+(Scores)Notlar
+(Letter Grades)Katsayýlar
+(Grade Points)Açýklamalar
+(Descriptions)
+100-94 A+ 4 Baþarýlý
+(A+)
+93-87 A 3,75 Baþarýlý
+(A)
+86-79 B+ 3,5 Baþarýlý
+(B+)
+78-70 B 3 Baþarýlý
+(B)
+69-60 C+ 2,5 Baþarýlý
+(C+)
+59-50 C 2 Baþarýlý
+(C)
+49-45 D+ 1,5 Þartlý Baþarýlý
+(D+)
+44-40 D 1 Þartlý Baþarýlý
+(D)
+0-39 F 0 Baþarýsýz
+(F)
+0 M 0 Muaf
+(M)
+0 S 0 Süren Çalýþmalar
+(S)
+0 DZ 0 Devamsýz
+(DZ)
+0 G 0 Geçer
+(G)
+0 K 0 Kaldý
+(K)
+0 TKR 0 Tekrar
+(TKR)
+*** BU BELGE 26/04/2022 09:39:33 TARÝHÝNDE ÜNÝVERSÝTE TARAFINDAN GÖNDERÝLEN VERÝ ÝLE OLUÞTURULMUÞTUR. ***
+***SON SATIR. BU SATIRDAN SONRA HERHANGÝ BÝR BÝLGÝ BASILMAMIÞTIR. ******(THIS DOCUMENT WAS GENERATED USING THE DATA SENT BY UNIVERSITY ON 26/04/2022 09:39:33)***
+***(THIS IS THE LAST LINE. NO INFORMATION WAS PRINTED AFTER THIS LINE.) ***
+3 3/Bu belgenin doðruluðunu barkod numarasý ile https://www.turkiye.gov.tr/belge-dogrulama adresinden, mobil cihazlarýnýza
+yükleyeceðiniz e-Devlet Kapýsýna ait Barkodlu Belge Doðrulama veya YÖK Mobil uygulamasý vasýtasý ile yandaki karekod
+okutularak kontrol edilebilir.
+ (You can verify this document by entering the barcode number into the barcode number section at https://www.turkiye.gov.tr/belge-dogrulama or by scanning the QR code via the
+mobile applications "E-government Barcoded Document Authentication" or "CoHE Mobile Application". )

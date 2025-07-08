@@ -1,0 +1,12 @@
+Planlama	(Career Planning)Z Tr 1 0 1 2	7.5	A
+ASO	101 Akademik ve Sosyal Oryantasyon*** *	1.0	ASO
+101	BLP 105 Veri Tabaný Yönetim Sistemleri****	5.0	B
+YBLG116Biliþim	ve Matematik*-Matematik II**	10.0	AA
+103	BTAE102 Eðitimde Bilgi Teknolojileri*	5.0	CC
+101	BTAE104 Algoritma Tasarýmý ve Geliþtirme*	5.0	AA
+101	FÝZ103 Fizik I***	4.5	CC
+109	GK101-GK105 Atatürk Ýlkeleri ve Ýnkýlap Tarihi I*- II*	6.0	BB
+203	GK102-106 Yabancý Dil I*-II*	6.0	AA
+203	GK103-GK107 Türk Dili I*-Türk Dili II*	10.0	CB
+103	KRP 101  Kariyer Planlama****	2.0	A
+101	YBL6109 Araþtýrma ve Sunum Teknikleri**	4.0	CB
